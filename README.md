@@ -18,7 +18,7 @@ recovery rates and regional impacts.
 - Europe had the highest regional death rate at 6.40%
 - Americas had the most cases with 8.8 million
 - Sri Lanka achieved a death rate 10x lower than global average
-- Always filter by minimum sample size before trusting percentages
+
 
 ## Important Note
 This dataset represents a snapshot from mid-2020, early in the pandemic.
